@@ -6,6 +6,11 @@
 *******Typography******
 **************************/
 
+.black-font{
+  color: #000;
+}
+
+
 body {
   font-family: 'Dosis', sans-serif;
   font-size: 17px;
