@@ -16,8 +16,21 @@
 }
 
 .main-h1{
-  text-shadow: #1c1c1c 4px 3px 0;
+  text-shadow: #7a7a7a 4px 1px 0;
   font-size: 4em;
+
+}
+
+.logo-head h1{
+  margin-top: 10px !important;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{
+  background-color: #A1791C !important;
+}
+
+#main-slider .prev, #main-slider .next{
+  background-color: #A1791C !important;
 }
 
 /*************************
